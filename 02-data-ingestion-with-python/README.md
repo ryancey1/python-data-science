@@ -1,5 +1,7 @@
 # Data Ingestion with Python  
 
+**Author: Ryan Yancey**
+
 A sizable portion of a data scientist's day is often spent fetching and cleaning the data they need to train their algorithms. In this course, learn how to use Python tools and techniques to get the relevant, high-quality data you need. Instructor Miki Tebeka covers reading files, including how to work with CSV, XML, and JSON files. He also discusses calling APIs, web scraping (and why it should be a last resort), and validating and cleaning data. Plus, discover how to establish and monitor key performance indicators (KPIs) that help you monitor your data pipeline.
 
 ## Learning objectives  
